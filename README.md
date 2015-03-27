@@ -1,6 +1,6 @@
 # Acknowledgements-Generator
-Adding Licenses to your iOS App without much hassle
-Generates an Acknowledgements.plist out of a bunch of .licenses files, which contain the Copyright of a Library.
+Adding Licenses to your iOS App without much hassle.
+It generates an Acknowledgements.plist out of a bunch of .licenses files, which contain the copyright of a library.
 
 Customize to fit your needs.
 
