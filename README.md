@@ -4,7 +4,7 @@ It generates an Acknowledgements.plist out of a bunch of .licenses files, which 
 
 Customize to fit your needs.
 
-##Usage
+## Usage
 Run the folloing command in the project directory:
 
 ```
